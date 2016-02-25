@@ -40,6 +40,7 @@ IP_ENABLED=0
 VIRTUAL_PROMPT_ENABLED=1
 
 export LSCOLORS=ExFxCxDxBxegedabagacad
+export HISTTIMEFORMAT="%Y-%m-%d %T "
 
 # COLORS ======================================================================
 ORANGE='\[\e[0;33m\]'
